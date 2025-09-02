@@ -14,7 +14,7 @@ A Django web application with role-based user authentication for Patients and Do
 
 1. **Clone the repository**
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/ayushmorbar/healthcare_app.git
 cd healthcare_app
 ```
 
